@@ -19,6 +19,12 @@ Constraints:
 n == nums.length
 1 <= k <= n <= 105
 -104 <= nums[i] <= 104
+
+Note:
+Refer this video for understanding Sliding Window Technique
+TAP ACADEMY
+https://www.youtube.com/watch?v=jhW7VwP2Djw
+Solve Subarray Problems Quickly With Sliding Window Technique | FREE DSA Course in JAVA | Lecture 79
  */
 
 public class Maximum_Average_Subarray_I_643 {
